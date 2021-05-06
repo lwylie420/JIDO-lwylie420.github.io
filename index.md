@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to JIDO Home Page!
 
 You can use the [editor on GitHub](https://github.com/lwylie420/JIDO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,30 +8,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Welcome to the lwylie420.github.io wiki!
 
-# Header 1
-## Header 2
-### Header 3
+Welcome to the JIDO wiki!
+# Project documentation for the JIDO app
+[Functional requirements document](https://github.com/lwylie420/JIDO/wiki/Functional-requirements-document.)
 
-- Bulleted
-- List
+[JIDO use case diagram](https://github.com/lwylie420/JIDO/wiki/JIDO-use-case-diagram)
 
-1. Numbered
-2. List
+[Register sequence diagram](https://github.com/lwylie420/JIDO/wiki/Register-sequence-diagram)
 
-**Bold** and _Italic_ and `Code` text
+[Functional Requirements Register/Create](https://github.com/lwylie420/JIDO/wiki/Functional-Requirements-Create)
 
-[Link](url) and ![Image](src)
-```
+[Retrieve sequence diagram](https://github.com/lwylie420/JIDO/blob/main/pictures/Retrieve.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Functional Requirements Retrieve](https://github.com/lwylie420/JIDO/wiki/Functional-Requirements-Retrieve)
 
-### Jekyll Themes
+[Update sequence diagram](https://github.com/lwylie420/JIDO/blob/main/pictures/Update.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lwylie420/JIDO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Functional Requirements Update](https://github.com/lwylie420/JIDO/wiki/Functional-Requirements-Update)
 
-### Support or Contact
+[Delete sequence diagram](https://github.com/lwylie420/JIDO/blob/main/pictures/Delete.png)
+
+[Functional Requirements Delete](https://github.com/lwylie420/JIDO/wiki/Functional-Require
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
