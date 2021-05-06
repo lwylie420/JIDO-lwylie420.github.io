@@ -1,12 +1,8 @@
 ## Welcome to JIDO Home Page!
 
-You can use the [editor on GitHub](https://github.com/lwylie420/JIDO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome to the JIDO App where you can stream live events that allow you to attend them virtually as well as podcasts. Users can also download and listen to music from there favorite artists! 
+The JIDO App is super simple to use! 
+All you need to do is create an account to generate a profile and take it from there by exploring different types of media and events. Some events allow users to attend through virtual experiences!
 
 Welcome to the lwylie420.github.io wiki!
 
